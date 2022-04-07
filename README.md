@@ -1,6 +1,6 @@
 # E-commerce
 
-* create index file
-* add header section
-* add images folder
-* 
+* create index file.
+* add header section.
+* add images folder.
+* add navbar.
