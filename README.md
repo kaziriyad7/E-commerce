@@ -29,4 +29,10 @@
 # E-commerce
 
 * create a banner section
-* 
+* create a button in section
+* add style banner section
+
+# E-commerce
+
+* create a new Arrivals section
+* and same feature product style add.
