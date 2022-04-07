@@ -1,3 +1,4 @@
+        /* Basic style */
 * {
     margin: 0;
     padding: 0;
@@ -254,12 +255,21 @@ button.normal {
     background-size:cover;
     background-position:center;
 }
+#banner h4 {
+    color: #fff;
+    font-size: 16px;
+}
 #banner h2 {
     color: #fff;
     font-size: 30px;
     padding: 10px 0;
 }
-#banner h4 {
-    color: #fff;
-    font-size: 16px;
+#banner h2 span {
+    color: #ef3636;
 }
+#banner button:hover {
+    background:#088178;
+    color:#fff;
+}
+
+
