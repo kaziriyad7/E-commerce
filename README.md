@@ -44,3 +44,6 @@
 * create two banner box
 * create or another banner box3
 * add style banner box all
+
+# E-commerce
+* create a newsletter section
