@@ -6,4 +6,9 @@
 * add navbar.
 * create css folder and add css file link
 * add Font-awesome cdn link
-* 
+* style navbar
+
+
+# E-commerce
+
+* create hero section
