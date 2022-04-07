@@ -17,4 +17,5 @@
 # E-commerce
 
 * create feature section
-* 
+* add style feature section
+* add 5 feature item
