@@ -25,3 +25,8 @@
 * create feature product section
 * add style feature product
 * add all single product
+
+# E-commerce
+
+* create a banner section
+* 
