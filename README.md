@@ -41,4 +41,6 @@
 # E-commerce
 
 * create a sm-banner section
-* 
+* create two banner box
+* create or another banner box3
+* add style banner box all
