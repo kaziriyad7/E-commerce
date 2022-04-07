@@ -108,7 +108,13 @@ button.white {
     bottom: -4px;
     left: 20px;
 }
-
+#mobile {
+    display: none;
+    align-items:center;
+}
+#close {
+    display: none;
+}
         /* here is homePage section start */
 #hero {
     background-image: url("/images/hero4.png");
