@@ -36,3 +36,9 @@
 
 * create a new Arrivals section
 * and same feature product style add.
+
+
+# E-commerce
+
+* create a sm-banner section
+* 

@@ -52,6 +52,17 @@ button.normal {
     outline: none;
     transition: 0.2s;
 }
+button.white {
+    font-size: 13px;
+    font-weight: 600;
+    padding: 11px 18px;
+    color: #fff;
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid #fff;
+    outline: none;
+    transition: 0.2s;
+}
 
     /* Here is Header section start */
 #header {
@@ -272,4 +283,39 @@ button.normal {
     color:#fff;
 }
 
+
+        /* Here is sm-banner section start */
+#sm-banner .banner-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    background-image: url("/images/banner/b17.jpg");
+    width: 580px;
+    height: 50vh;
+    background-size:cover;
+    background-position:center;
+    padding: 30px;
+}
+#sm-banner {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#sm-banner h4 {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+}
+#sm-banner h2 {
+    color: #fff;
+    font-size: 28px;
+    font-weight: 800;
+}
+#sm-banner span {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding-bottom: 15px;
+}
 
