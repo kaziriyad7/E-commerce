@@ -297,6 +297,9 @@ button.white {
     background-position:center;
     padding: 30px;
 }
+#sm-banner .banner-box2 {
+    background-image: url("/images/banner/b10.jpg");
+}
 #sm-banner {
     display: flex;
     justify-content: space-between;
@@ -317,5 +320,9 @@ button.white {
     font-size: 14px;
     font-weight: 500;
     padding-bottom: 15px;
+}
+#sm-banner .banner-box:hover button{
+    background:#088178;
+    border: 1px solid #088178;
 }
 
