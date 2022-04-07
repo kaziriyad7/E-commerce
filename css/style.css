@@ -139,3 +139,7 @@ body {
     color: #088178;
     background-color:#fddde4;
 }
+#feature .fe-box img {
+    width: 100%;
+    margin-bottom: 10px;
+}
