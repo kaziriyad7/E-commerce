@@ -47,3 +47,4 @@
 
 # E-commerce
 * create a newsletter section
+* Add style newsletter section
