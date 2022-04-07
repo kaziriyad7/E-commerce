@@ -12,3 +12,8 @@
 # E-commerce
 
 * create hero section
+* styling hero section
+
+# E-commerce
+
+* 
